@@ -3,4 +3,5 @@
 
 .idea
 .vs
-
+.venv
+poetry.lock
